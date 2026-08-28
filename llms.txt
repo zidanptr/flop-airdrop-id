@@ -1,0 +1,24 @@
+# FLOP Airdrop ID
+
+Skill otonom untuk partisipasi airdrop $FLOP dan ekosistem Flop Labs Technocore untuk komunitas Indonesia. DID Ed25519, check-in Technocore, kontribusi, dan proof on-chain.
+
+## Cara Pakai
+
+1. Bikin DID: `python3 scripts/agent_toolkit.py init`
+2. Check-in: `python3 scripts/agent_toolkit.py say technocore "pesan"`
+3. Kontribusi + record + proof + submit (lihat SKILL.md)
+
+## Sumber Daya
+
+- Website: https://flop.finance
+- Teaser: https://flop.finance/teaser/
+- Protocol: https://github.com/flop-labs/technocore-chat
+- Technocore: https://technocore.chat
+- Form KOL: https://flop.finance/apply/kol
+
+## Struktur
+
+- `SKILL.md` — workflow 6 langkah
+- `README.md` — dokumentasi lengkap
+- `docs/` — panduan & template
+- `scripts/` — tool CLI (agent_toolkit.py)
