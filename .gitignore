@@ -1,5 +1,5 @@
-# Secrets — never commit
 *.pem
 *.key
 .env
-identity.pem
+__pycache__/
+*.pyc
